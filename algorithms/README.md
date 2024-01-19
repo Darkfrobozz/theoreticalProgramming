@@ -1,0 +1,1 @@
+An understanding for evaluating, developing and the landscape of algorithms is essential for a understanding programming.
