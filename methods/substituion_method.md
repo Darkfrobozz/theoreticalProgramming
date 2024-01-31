@@ -1,0 +1,2 @@
+Instead of proving that some recurrence follows exactly some closed formula, the substitution method finds a closed-form *bound* for the recurrence.
+To deal with various parts of the recurrence in question, it is often necessary to in the closed-form *bound* to include terms that can cancel out those in the recurrence.
