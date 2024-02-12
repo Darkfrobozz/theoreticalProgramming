@@ -1,0 +1,1 @@
+To encode variable byte sized strings, we use an encoding process that determines the length of a character by reading the leading bits first and that representing the length from 1 to 4 bytes

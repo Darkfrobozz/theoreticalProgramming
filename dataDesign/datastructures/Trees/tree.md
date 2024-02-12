@@ -1,4 +1,4 @@
-Let's construct a tree, a tree is a sorted [[node_network]].
+Let's construct a tree, a tree is a sorted [[graph]].
 ![[dataset.png]]
 
 Then step 2 is choosing a start node, notice the one in red.

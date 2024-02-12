@@ -1,0 +1,1 @@
+Directed [[graph]]s have [[link]]s that only traversable in one direction.
